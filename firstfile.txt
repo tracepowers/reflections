@@ -1,0 +1,3 @@
+This is my first reflection file that I am doing for the git course on Udacity. 
+So far, I have learned that fc compares files in windows. 
+Diffing the two files helped spot the bug by reducing the content to only the changed content

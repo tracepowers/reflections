@@ -1,0 +1,1 @@
+Git is designed for code, so repositories make sense.
